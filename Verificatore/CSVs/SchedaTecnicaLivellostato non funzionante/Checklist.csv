@@ -1,0 +1,13 @@
+Check,Intestazione Scheda,\Indicare come deve essere intestata la scheda e riportare il numero di matricola assegnato a seguito della
+comunicazione di messa in servizio\,1,2
+Check,Dati  fabbricante  e proprietario,\Riportare i dati contenuti nella richiesta di verifica periodica e
+nella dichiarazione di conformità CE/UE\,3,4
+Check,Luogo di installazione,Verificare la correttezza dei dati della richiesta di verifica periodica e della  comunicazione di messa in servizio ,5,5
+Check,Descrizione dell’attrezzatura,Verificare la correttezza dei dati della richiesta di verifica periodica e della comunicazione di messa in servizio ,6,6
+Check,Dati identificativi attrezzatura,Riportare il numero di fabbrica e altri dati dell’attrezzatura, verificandoli con i dati dalla richiesta di verifica periodica e dalla comunicazione di messa in servizio. ,7,9
+Check,Dati relativi alla certificazione,Riportare i dati relativi alla certificazione analizzando la documentazione,10,15
+Check,Dati tecnici,\Recuperare i dati relativi ai limiti ammissibili dalla dichiarazione di conformità CE/UE, dalle istruzioni per l’uso, da disegni e i P,ID, ecc.\,16,25
+Check,\Dispositivi di protezione
+e controllo\,Recuperare i dati dalla documentazione resa disponibile dal datore di lavoro (dichiarazione di conformità CE/UE, relazione tecnica, certificati e dimensionamenti, data-sheet, disegni) e verificarne la presenza quando possibile,20,25
+Check,Documentazione dell'attrezzatura,Recuperare, verificandone la consistenza e coerenza, tutta la documentazione presentata dal datore di lavoro all’atto della comunicazione di messa in servizio, della richiesta di prima verifica periodica e all’atto della verifica ,26,33
+Check,Finalizzazione scheda,,34,34

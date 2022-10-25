@@ -1,0 +1,31 @@
+SWITCH&Manopola con cui impostare la modalita di comando del generatore: remoto, spento, locale  ( consigliato)&SI
+Spia termico scattato&Spia allarme termico bloccato. Si accende quando il generatore va in blocco&SI
+Presa vapore con valvola intercettazione&Valvola scarico condensa surriscaldatore vapore. Permette al vapore di uscire dal generatore ed essere immesso nell’impianto. Quando il generatore e' in funzione deve essere aperta, se chiuso il vapore non puo' uscire e la pressione rimane stabile all’interno dal generatore.&SI
+Leva linea elettrica&Leva di attivazione da' corrente al generatore. Va posizionata su 1 per attivare il generatore e su 0 per spegnerlo&SI
+Valvola di intercettazione alimentazione acqua&Valvola di intercettazione alimentazione acqua. Permette il passaggio dell’acqua al generatore. Va tenuta aperta durante il funzionamento del generatore,  quando chiusa fa si che la pompa mandi acqua in un tubo chiuso e non viene prodotto vapore&SI
+Valvola di scarico del livello ottico&Valvola scarico livello ottico dell’acqua presente nel serbatoio. Scarica il livello ottico, va sempre chiusa quando il generatore e' in funzione&SI
+Valvola sicurezza&Limita la pressione del generatore, funziona se viene azionata quando la pressione raggiunge il massimo ammissibile&SI
+Valvola&Valvola dell'impianto&SI
+Valvola intercettazione aspirazione pompa&Valvola intercettazione aspirazione pompa. Permette il passaggio dell’acqua al generatore. Quando il generatore e' in funzione deve essere aperta, la sua chiusura puo' causare danni alla pompa.&SI
+Valvola scarico acqua&Valvola di svuotamento acqua caldaia. Deve essere chiusa quando il generatore e' in funzione&SI
+Valvola scarico vaschetta alimentazione acqua&Valvola di scarico serbatoio acqua. Deve essere chiusa quando il generatore è in funzione&SI
+Valvola intercettazione acqua&Valvola intercettazione aspirazione pompa. Permette il passaggio dell’acqua al generatore. Quando il generatore e' in funzione deve essere aperta, la sua chiusura puo' causare danni alla pompa.&SI
+Valvole di esclusione del livello ottico 1&Valvola carico livello ottico del vapore presente nel serbatoio. Da aprirsi  assieme a quella posizionata sotto. Conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio &SI
+Valvole di esclusione del livello ottico 2&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola soprastante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio &SI
+Livello acqua vaschetta&Livello acqua della vaschetta alimentazione&SI
+button pressure -&Diminuisce il valore impostato per la pressione massima&SI
+button pressure +&Aumenta il valore impostato per la pressione massima&SI
+Misuratore ottico di livello&Mostra il livello di acqua presente nel generatore, funziona quando una volta svuotato e ririempito il valore si rialza&SI
+Pulsante emergenza&Pulsante di emergenza. Deve essere premuto in caso di problemi per bloccare il sistema. Per sbloccarlo ruotare il pulsante prima di riattivare il generatore dopo un blocco anomalo&SI
+Pulsante reset&Pulsante di reset. Va premuto prima di attivare il generatore oppure quando si riattiva il generatore dopo che si sono incontrati dei problemi &SI
+Mod accensione pompa&Selettore della modalita' di funzionamento della pompa: 0 pompa spenta, MAN funzionamento manuale richiede che l’operatore controlli i parametri del generatore e attivi/disattivi le resistenze e la pompa (SCONSIGLIATO), AUT il sistema gestisce in modo automatico il funzionamento del generatore (CONSIGLIATO)&SI
+Spia blocco pressione&Spia allarme pressostato sicurezza. Si accende quando la pressione e' troppo elevata&SI
+Gruppo resistenze A&Selettore Resistenze Gruppo 1 Acceso quando e' attivo. Almeno uno dei gruppi di resistenze deve essere acceso per generare vapore&SI
+Gruppo resistenze B&Selettore Resistenze Gruppo 2 Acceso quando e' attivo. Almeno uno dei gruppi di resistenze deve essere acceso per generare vapore&SI
+Gruppo resistenze C&Selettore Resistenze Gruppo 3. Acceso quando e' attivo. Almeno uno dei gruppi di resistenze deve essere acceso per generare vapore&SI
+Gruppo resistenze D&Selettore Resistenze Gruppo 4. Acceso quando e' attivo. Almeno uno dei gruppi di resistenze deve essere acceso per generare vapore&SI
+Valvola sicurezza&Limita la pressione del generatore, funziona se viene azionata quando la pressione raggiunge il massimo ammissibile&NO
+Manometro pressione vapore&Riporta il valore della pressione dentro il generatore, funziona quando il suo valore coincide con il valore riportato nel manometro di controllo collegato&NO
+Spia linea elettrica&Spia Generatore in funzione – è accesa quando il generatore è in funzione&SI
+Spia min livello acqua&Spia mancanza di acqua. Si accende quando il contenuto dell’acqua nel serbatoio dell’acqua e' poco oppure quando non arriva abbastanza acqua al generatore&SI
+Display setpoint pressione&Evita che il generatore raggiunga una pressione troppo elevata, funziona se spegne il bruciatore/le resistenze quando il generatore raggiunge la pressione massima di esercizio e li riaccende quando la pressione scende&SI
