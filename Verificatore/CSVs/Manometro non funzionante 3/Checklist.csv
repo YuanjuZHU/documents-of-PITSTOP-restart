@@ -1,0 +1,18 @@
+Titolo&Intestazione e specifica del verbale&&&
+Check&Dati dell'intestazione del verbale&Specifica cosa deve contenere l'intestazione del verbale&1&2
+Titolo&Identificazione attrezzatura&&&
+Check&Dati identificativi attrezzatura&Verifica della corrispondenza dei dati identificativi (vanno nuovamente verificati con quelli dichiarati dal datore di lavoro con quelli riscontrati sulla dichiarazione di conformità CE/UE, rilevati sull’attrezzatura e/o sulla base del PID)&3&8
+Titolo&Specifiche di installazione&&&
+Check&Idoneità locali&Verificarne la conformità con le istruzioni d’uso o con quanto stabilito dalla normativa di riferimento&9&9
+Titolo&Configurazione e dati tecnici rilevati al momento della verifica&&&
+Check&Dati di esercizio&Verificare e registrare i parametri di esercizio (pressione, temperatura, livelli) rilevati all’atto della verifica&10&17
+Check&Qualità dell’acqua&Verificare la congruità dei parametri richiesti con le analisi effettuate dal datore di lavoro. Verificare la cadenza dei campionamenti&19&19
+Titolo&Regolarità della funzionalità dei dispositivi di protezione&&&
+Check&Dispositivi di sicurezza&Indicare marca/modello, certificazione/ omologazione, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità, la taratura (con prove o acquisendone certificato) lo scarico&20&21
+Check&Dispositivi di controllo&Indicare marca/modello ,certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità&22&24
+Check&Dispositivi di regolazione&Indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità&25&25
+Check&Altri dispositivi&Se presenti, indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalit&26&27
+Titolo&Esito&&&
+Check&Esito&Indicare i risulti della verifica&28&30
+Titolo&Finalizzazione &&&
+Check&Dati finali relativi al verbale&Apporre data e firme&31&33
