@@ -4,7 +4,6 @@ Presa vapore con valvola intercettazione&Valvola scarico condensa surriscaldator
 Leva linea elettrica&Leva di attivazione da' corrente al generatore. Va posizionata su 1 per attivare il generatore e su 0 per spegnerlo&SI
 Valvola di intercettazione alimentazione acqua&Valvola di intercettazione alimentazione acqua. Permette il passaggio dell’acqua al generatore. Va tenuta aperta durante il funzionamento del generatore,  quando chiusa fa si che la pompa mandi acqua in un tubo chiuso e non viene prodotto vapore&SI
 Valvola di scarico del livello ottico&Valvola scarico livello ottico dell’acqua presente nel serbatoio. Scarica il livello ottico, va sempre chiusa quando il generatore e' in funzione&SI
-Valvola sicurezza&Limita la pressione del generatore, funziona se viene azionata quando la pressione raggiunge il massimo ammissibile&SI
 Valvola&Valvola dell'impianto&SI
 Valvola intercettazione aspirazione pompa&Valvola intercettazione aspirazione pompa. Permette il passaggio dell’acqua al generatore. Quando il generatore e' in funzione deve essere aperta, la sua chiusura puo' causare danni alla pompa.&SI
 Valvola scarico acqua&Valvola di svuotamento acqua caldaia. Deve essere chiusa quando il generatore e' in funzione&SI

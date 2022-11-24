@@ -1,18 +1,18 @@
 Titolo&Intestazione e specifica del verbale&&&
-Check&Dati dell'intestazione del verbale&Specifica cosa deve contenere l'intestazione del verbale&1&2
+Check&Dati dell'intestazione del verbale&Specificare come deve essere  l'intestazione del verbale&1&2
 Titolo&Identificazione attrezzatura&&&
-Check&Dati identificativi attrezzatura&Verifica della corrispondenza dei dati identificativi (vanno nuovamente verificati con quelli dichiarati dal datore di lavoro con quelli riscontrati sulla dichiarazione di conformit‡ CE/UE, rilevati sullíattrezzatura e/o sulla base del PID)&3&8
-Titolo&Specifiche di installazione&&&
-Check&Idoneit‡ locali&Verificarne la conformit‡ con le istruzioni díuso o con quanto stabilito dalla normativa di riferimento&9&9
+Check&Dati identificativi attrezzatura&Verifica della corrispondenza dei dati identificativi inviati per la dichiarazione di messa in servizio (vanno nuovamente verificati con quelli dichiarati dal datore di lavoro con quelli riscontrati sulla dichiarazione di conformita' CE/UE, rilevati sull'attrezzatura e/o sulla base del PID)&3&9
+Titolo&Idoneit√†  di installazione &&&
+Check&Idoneita' locali&Verificare se conforme con le istruzioni di utilizzo  o con quanto stabilito dalla normativa di riferimento&10&10
 Titolo&Configurazione e dati tecnici rilevati al momento della verifica&&&
-Check&Dati di esercizio&Verificare e registrare i parametri di esercizio (pressione, temperatura, livelli) rilevati allíatto della verifica&10&17
-Check&Qualit‡ dellíacqua&Verificare la congruit‡ dei parametri richiesti con le analisi effettuate dal datore di lavoro. Verificare la cadenza dei campionamenti&19&19
-Titolo&Regolarit‡ della funzionalit‡ dei dispositivi di protezione&&&
-Check&Dispositivi di sicurezza&Indicare marca/modello, certificazione/ omologazione, criteri di scelta, conformit‡ alle istruzioni díuso; verificarne la funzionalit‡, la taratura (con prove o acquisendone certificato) lo scarico&20&21
-Check&Dispositivi di controllo&Indicare marca/modello ,certificazione/ omologazione, fondo scala, criteri di scelta, conformit‡ alle istruzioni díuso; verificarne la funzionalit‡&22&24
-Check&Dispositivi di regolazione&Indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformit‡ alle istruzioni díuso; verificarne la funzionalit‡&25&25
-Check&Altri dispositivi&Se presenti, indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformit‡ alle istruzioni díuso; verificarne la funzionalit&26&27
+Check&Caratteristiche e Dati di esercizio&Verificare e registrare i parametri di esercizio dell'attrezzatura  (pressione, temperatura, livelli) rilevati durante la verifica&11&18
+Check&Qualita' dell'acqua&Verificare se i  parametri richiesti sono conformi con le analisi effettuate dal datore di lavoro. Verificare la cadenza dei campionamenti&19&19
+Titolo&Regolarita'  del funzionamento  dei dispositivi di protezione&&&
+Check&Dispositivi di sicurezza&Indicare marca/modello, certificazione/ omologazione, criteri di scelta, se conforme alle istruzioni di utilizzo; verificarne il funzionamento, la taratura (con prove o acquisendone certificato), lo scarico&20&21
+Check&Dispositivi di controllo&Indicare marca/modello ,certificazione/ omologazione, fondo scala, criteri di scelta, se conforme  alle istruzioni di utilizzo; verificarne il funzionamento&22&24
+Check&Dispositivi di regolazione&Indicare marca/modello ,certificazione/ omologazione, fondo scala, criteri di scelta, se conforme  alle istruzioni di utilizzo; verificarne il funzionamento&25&25
+Check&Altri dispositivi&Se presenti, indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, se conforme  alle istruzioni di utilizzo; verificarne il funzionamento&26&26
 Titolo&Esito&&&
-Check&Esito&Indicare i risulti della verifica&28&30
+Check&Esito&Indicare i risulti della verifica&27&29
 Titolo&Finalizzazione &&&
-Check&Dati finali relativi al verbale&Apporre data e firme&31&33
+Check&Dati finali relativi al verbale&Apporre data e firme&30&32
