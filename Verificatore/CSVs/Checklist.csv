@@ -1,0 +1,11 @@
+Titolo&Identificazione attrezzatura&&&
+Check&Dati identificativi attrezzatura&Verifica della corrispondenza dei dati identificativi (vanno nuovamente verificati con quelli dichiarati dal datore di lavoro con quelli riscontrati sulla dichiarazione di conformità CE/UE, rilevati sull’attrezzatura e/o sulla base del PID)&2&9
+Titolo&Configurazione e dati tecnici rilevati al momento della verifica&&&
+Check&Dati di esercizio&Verificare e registrare i parametri di esercizio (pressione, temperatura, livelli) rilevati all’atto della verifica&10&17
+Check&Qualità dell’acqua&Verificare la congruità dei parametri richiesti con le analisi effettuate dal datore di lavoro. Verificare la cadenza dei campionamenti&19&19
+Check&Idoneità locali&Verificarne la conformità con le istruzioni d’uso o con quanto stabilito dalla normativa di riferimento&33&34
+Titolo&Regolarità della funzionalità dei dispositivi di protezione&&&
+Check&Dispositivi di sicurezza&ndicare marca/modello, certificazione/ omologazione, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità, la taratura (con prove o acquisendone certificato) lo scarico&23&23
+Check&Dispositivi di controllo&Indicare marca/modello ,certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità&24&24
+Check&Dispositivi di regolazione&Indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalità&25&25
+Check&Esito&Indicare marca/modello, certificazione/ omologazione, fondo scala, criteri di scelta, conformità alle istruzioni d’uso; verificarne la funzionalitàIn base a quanto rilevato lo stato di funzionamento risulterà adeguato oppure non risulterà adeguato ai fini della sicurezza&&
