@@ -1,0 +1,54 @@
+TYPE&NAME&ID&ROTATING AXIS x&ROTATING AXIS y&ROTATING AXIS z&TOTAL STATUS&ACTION&DESCRIPTION
+PressureGauge&Manometro GAS 1&23C&NULL&NULL&NULL&NULL&gaze + speech&Manometro  indica il valore corrente della pressione del carburante
+PressureGauge&Manometro GAS2&20C&NULL&NULL&NULL&NULL&gaze + speech&Manometro  indica il valore corrente della pressione del carburante
+Valvola&Valvola controllo manometro GAS2 a&20A&1&0&0&2&gaze + speech&valvola controllo manometro 
+Valvola&Valvola controllo manometro GAS2 b&20B&1&0&0&2&gaze + speech&valvola controllo manometro 
+Valvola&Valvola Aria primaria&17A&0&0&1&2&gaze + speech&valvola aria primaria
+Valvola&Valvola ingresso aria1&14A&0&0&1&2&gaze + speech&valvola aria ????
+Valvola&Valvola ingresso aria2&14B&0&0&1&2&gaze + speech&valvola aria ????
+Valvola&Valvola sfiato 1&12A&0&0&1&2&gaze + speech&valvola sfiato aria ????
+Valvola&Valvola sfiato 2&12B&0&0&1&2&gaze + speech&valvola sfiato aria ????
+Valvola&Valvola sfiato 3&12C&0&0&1&2&gaze + speech&valvola sfiato aria ????
+Valvola&Valvola a torce pilota 1&11A&1&0&0&2&gaze + speech&valvola  aria a torce pilota????
+Valvola&Valvola a torce pilota 2&11B&1&0&0&2&gaze + speech&valvola  aria a torce pilota????
+Valvola&Valvola a torce pilota 3&11C&1&0&0&2&gaze + speech&valvola  a sbarramento aria ????
+Valvola&Valvola sbarramento 1&11D&1&0&0&2&gaze + speech&valvola  aria a torce pilota????
+Valvola&Valvola scarico pareti 1&10A&1&0&0&2&gaze + speech&valvola scarico acqua????
+Valvola&Valvola scarico pareti 2&10B&1&0&0&2&gaze + speech&valvola scarico acqua????
+Valvola&Valvole di esclusione del livello ottico 1-1&26B&1&0&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola sottostante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+Valvola&Valvole di esclusione del livello ottico 1-2&26D&1&0&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola soprastante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+Valvola&Valvole scarico del livello ottico 1&26E&0&0&1&2&gaze + speech&Valvola scarico livello ottico dell’acqua presente nel serbatoio  
+WaterLevelIndicator&Misuratore ottico di livello 1&26C&NULL&NULL&NULL&NULL&gaze + speech&Livello ottico – visualizza la quantità d’acqua presente nel generatore, quando in funzione fare attenzione che non diminuisca, in tal caso controllare che le valvole di carico acqua siano aperte e quelle di scarico siano chiuse.
+Valvola&Valvole di esclusione del livello ottico 2-1&33A&1&0&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola sottostante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+Valvola&Valvole di esclusione del livello ottico 2-2&33B&1&0&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola sovrastante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+Valvola&Valvole scarico del livello ottico 2&33C&0&0&1&2&gaze + speech&Valvola scarico livello ottico dell’acqua presente nel serbatoio  del serbatoio
+WaterLevelIndicator&Misuratore ottico di livello 2&31C&NULL&NULL&NULL&NULL&gaze + speech&Livello ottico – visualizza la quantità d’acqua presente nel generatore, quando in funzione fare attenzione che non diminuisca, in tal caso controllare che le valvole di carico acqua siano aperte e quelle di scarico siano chiuse.
+PressureGauge&Manometro generatore&28A&NULL&NULL&NULL&NULL&gaze + speech&Manometro  indica il valore corrente della pressione del generatore????
+Valvola&Valvole di esclusione del livello ottico 3-1&29B&0&1&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola sottostante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+Valvola&Valvole di esclusione del livello ottico 3-2&29C&0&1&0&2&gaze + speech&Valvola carico livello ottico dell’acqua presente nel serbatoio da aprirsi assieme alla valvola soprastante – conviene attivare il livello ottico per tenere sotto controllo il livello dell’acqua del serbatoio
+PressureGauge&Misuratore di temperatura&37A&NULL&NULL&NULL&NULL&gaze + speech&visualizza la temperatura del vapore
+Valvola&Valvola bassissimo livello corpo cilindrico 1&35A&0.35&0&1&NULL&gaze + speech&Valvola di scarico bassissimo livello corpo cilindrico
+Valvola&Valvola uscita vapore 1&8A&0&1&0&NULL&gaze + speech&Valvola uscita vapore???
+Valvola&Valvola uscita vapore 2&8B&0&1&0&NULL&gaze + speech&Valvola uscita vapore???
+Valvola&Valvola uscita vapore 3&8C&0&1&0&NULL&gaze + speech&Valvola uscita vapore???
+Valvola&Valvola uscita vapore 4&8E&0&1&0&NULL&gaze + speech&Valvola uscita vapore???
+Valvola&Valvola uscita vapore 5&8F&0&0&1&NULL&gaze + speech&Valvola uscita vapore???
+Valvola&presa vapore&4A&0&0&1&NULL&gaze + speech&Valvola presa vapore principale???
+Valvola&Scarico acqua pompa&2A&0&1&0&NULL&gaze + speech&Valvola scarico acqua pompa???
+Valvola&Ingresso acqua pompa&1B&0&0&1&NULL&gaze + speech&Valvola carico acqua pompa???
+Valvola&Uscita acqua pompa&1A&0&0&1&NULL&gaze + speech&Valvola carico acqua generatore???
+Valvola&Valvola di sicurezza 1&36A&0&0&1&NULL&gaze + speech&Valvola di sicurezza
+Valvola&Valvola di sicurezza 2&36B&0&0&1&NULL&gaze + speech&Valvola di sicurezza
+WindowConsoleButton&console element 7 white bg&7&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&console element 6 white bg&6&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&console element 8 white bg&8&NULL&NULL&NULL&&gaze + speech&Window console element
+WindowConsoleButton&console element 3 white bg&3&NULL&NULL&NULL&&gaze + speech&Window console element
+WindowConsoleButton&console element 2 white bg&2&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&console element 1 white bg&1&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&console element 4 white bg&4&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&console element 5 white bg&5&NULL&NULL&NULL&&gaze + speech&Window console element
+WindowConsoleButton&element 11 white bg(1)&11.1&NULL&NULL&NULL&&gaze + speech&Window console element
+WindowConsoleButton&element 11 white bg(2)&11.2&NULL&NULL&NULL&&gaze + speech&Window console element
+WindowConsoleButton&console element 9 white bg&9&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&element 10 white bg (1)&10.1&NULL&NULL&NULL&&gaze + speech&Window console element
+SimpleConsoleButton&element 10 white bg (2)&10.2&NULL&NULL&NULL&&gaze + speech&Window console element
